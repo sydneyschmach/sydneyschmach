@@ -1,5 +1,5 @@
--<h1 align="center">Hi 👋, I'm Sydney (ENNA)!</h1>
-<h3 align="center">Freelance Artist, Web Developer & Full Stack Developer based in Salt Lake City, UT!</h3>
+-  Hi 👋, I'm Sydney (ENNA)!
+- I'm a Freelance Artist, Web Developer & Full Stack Developer based in Salt Lake City, UT!
 
 - 🔭 I’m currently working on **Vending Machine in Java**
 
