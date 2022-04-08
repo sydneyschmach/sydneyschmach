@@ -1,5 +1,5 @@
 -  Hi 👋, I'm Sydney (ENNA)!
-<img align="right" alt="cafe coding" width="400" src="https://c.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif">
+<img align="right" alt="cafe coding" width="400" src="https://s12.favim.com/gif_previews/6/698/6986/69866/6986638.gif">
 
 - 🔭 I’m currently working on **Vending Machine in Java**
 
