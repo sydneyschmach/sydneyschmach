@@ -1,6 +1,6 @@
 -  Hi 👋, I'm Sydney (ENNA)!
 - I'm a Freelance Artist, Web Developer & Full Stack Developer based in Salt Lake City, UT!
-<img align="right" alt="cafe coding" width="400" src="https://tenor.com/bxQhS.gif">
+<img align="right" alt="cafe coding" width="400" src="https://c.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif">
 
 - 🔭 I’m currently working on **Vending Machine in Java**
 
