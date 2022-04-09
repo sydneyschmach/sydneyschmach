@@ -1,20 +1,14 @@
 -  Hi 👋, I'm Sydney (ENNA)!
 <img align="right" alt="cafe coding" width="400" src="https://i.pinimg.com/originals/c4/90/ca/c490ca0a25bc300089e784e635ff465f.gif">
 
-- 🔭 I’m currently working on **Vending Machine in Java**
-
+- 🛠 I’m currently working on **Vending Machine in Java**
 - 🌱 I’m currently learning **Java, SQL, Python & React**
-
-- 👯 I’m looking to collaborate on **Java Projects & Web/App Design**
-
+- 🧬 I’m looking to collaborate on **Java Projects & Web/App Design**
 - 🤝 I’m looking for help with **Finding good projects**
-
-- 👨‍💻 All of my projects are available at [ennacodes.io(coming soon!)](ennacodes.io(coming soon!))
-
+- 🔮 All of my projects are available at [ennacodes.io(coming soon!)](ennacodes.io(coming soon!))
 - 💬 Ask me about **Anything to do with Bootcamps and how to learn to code with ADHD!**
-
-- 📫 How to reach me **ennacodes@gmail.com**
-
+- 📩 How to reach me **ennacodes@gmail.com**
+- 💻 Available for work & collaborations! 
 - ⚡ Fun fact **I really love challenges and building things!**
 
 <h3 align="left">Connect with me:</h3>
