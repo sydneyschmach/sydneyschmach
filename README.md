@@ -4,7 +4,7 @@
 - 🛠 I’m currently working on **Vending Machine in Java**
 - 🌱 I’m currently learning **Java, SQL, Python & React**
 - 🤝 I’m looking for help with **Finding good projects**
-- 🔮 All of my projects are available at [ennacodes.io(coming soon!)](ennacodes.io(coming soon!))
+- 🔮 All of my projects are available at (ennacodes.io(coming soon!))
 - 💬 Ask me about **Anything to do with Bootcamps and how to learn to code with ADHD!**
 - 📩 How to reach me **ennacodes@gmail.com**
 - 💻 Available for work & collaborations! 
