@@ -22,8 +22,6 @@
 <a href="https://www.leetcode.com/ennacodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ennacodes" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<img align ="column" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" /><img align ="column" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
 
 <!---
 sydneyschmach/sydneyschmach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
