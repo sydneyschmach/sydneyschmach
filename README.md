@@ -1,7 +1,7 @@
 -  Hi 👋, I'm Sydney (ENNA)!
 <img align="right" alt="cafe coding" width="400" src="https://i.pinimg.com/originals/c4/90/ca/c490ca0a25bc300089e784e635ff465f.gif">
 
-- 🛠 I’m currently working on **Vending Machine in Java**
+- 🛠 I’m currently working on **SQL/API's and Python Projects**
 - 🌱 I’m currently learning **Java, SQL, Python & React**
 - 🤝 I’m looking for help with **Finding good projects**
 - 🔮 All of my projects are available at (ennacodes.io(coming soon!))
