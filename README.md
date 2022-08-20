@@ -1,9 +1,8 @@
 -  Hi 👋, I'm Sydney!
 <img align="right" alt="cafe coding" width="400" src="https://i.pinimg.com/originals/c4/90/ca/c490ca0a25bc300089e784e635ff465f.gif">
-
-- 🛠 I’m currently working on **SQL/API's and Python Projects**
-- 🌱 I’m currently learning **Java, SQL, Python & React**
-- 🔮 All of my projects are available at (ennacodes.io(coming soon!))
+- 🛠 I’m currently working on learning React and doing Python Projects**
+- 🌱 I’m currently learning **Python & React**
+- 🔮 All of my projects are available at (sydneycodes.io(coming soon!))
 - 💬 Ask me about **Anything to do with Bootcamps and how to learn to code with ADHD!**
 - 📩 How to reach me **ennacodes@gmail.com**
 - 💻 Available for work & collaborations! 
