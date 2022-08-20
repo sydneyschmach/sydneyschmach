@@ -1,4 +1,4 @@
--  Hi 👋, I'm Sydney (ENNA)!
+-  Hi 👋, I'm Sydney!
 <img align="right" alt="cafe coding" width="400" src="https://i.pinimg.com/originals/c4/90/ca/c490ca0a25bc300089e784e635ff465f.gif">
 
 - 🛠 I’m currently working on **SQL/API's and Python Projects**
